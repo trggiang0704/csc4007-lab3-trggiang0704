@@ -1,0 +1,10 @@
+{
+  "dataset": "imdb",
+  "seed": 42,
+  "model": "embedding_rnn",
+  "test_macro_f1": 0.6708706116177575,
+  "test_accuracy": 0.67096,
+  "best_val_macro_f1": 0.6724206306405135,
+  "wandb_enabled": true,
+  "wandb_mode": "online"
+}
