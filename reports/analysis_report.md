@@ -1,7 +1,7 @@
 # CSC4007 — Lab 3 Analysis Report (RNN + W&B)
 
 ## 1. Thông tin sinh viên
-- Họ và tên:
+- Họ và tên: Trần Trường Giang 
 - Mã sinh viên:
 - Lớp:
 - Repo GitHub:
